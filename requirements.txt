@@ -2,8 +2,8 @@ streamlit
 google.generativeai
 python-dotenv
 langchain
-python-dotenv
 tiktoken
 faiss-cpu
-protobuf~
+protobuf
 langchain_google_genai
+
