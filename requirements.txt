@@ -6,4 +6,5 @@ tiktoken
 faiss-cpu
 protobuf
 langchain_google_genai
+InstructorEmbedding
 
